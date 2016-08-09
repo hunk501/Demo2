@@ -2,4 +2,7 @@
 <?php
 echo 'file1';
 echo 'Sample 1';
+
+echo 'Sample 2';
+echo 'Sample 3';
 ?>
